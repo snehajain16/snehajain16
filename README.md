@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Sneha Jain</h1>
-<h3 align="center">Java Springboot Dev</h3>
+<h3 align="center">AIML Dev</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snehajain16&label=Profile%20views&color=0e75b6&style=flat" alt="snehajain16" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=snehajain16" alt="snehajain16" /></a> </p>
 
-- 🔭 I’m currently working on **Internship & Placement Tracker in Java**
+- 🔭 I’m currently working on **Six Thinking Hats AI**
 
-- 🌱 I’m currently learning **Springboot, Web Dev**
+- 🌱 I’m currently learning **AIML, Web Dev**
 
-- 👯 I’m looking to collaborate on **Java and Web Dev Projects & Startups**
+- 👯 I’m looking to collaborate on **Python and AIML Projects & Startups**
 
 - 🤝 I’m looking for help with **DSA, System Design**
 
 - 👨‍💻 All of my projects are available at [https://snehajain.vercel.app/](https://snehajain.vercel.app/)
 
-- 💬 Ask me about **Java, Backend Systems**
+- 💬 Ask me about **AIML, Backend Systems**
 
 - 📫 How to reach me **snehajain161104@gmail.com**
 
