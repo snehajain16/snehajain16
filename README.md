@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **DSA, System Design**
 
-- 👨‍💻 All of my projects are available at [snehajain.is-a.ev](snehajain.is-a.ev)
+- 👨‍💻 All of my projects are available at [https://snehajain.vercel.app/](https://snehajain.vercel.app/)
 
 - 💬 Ask me about **Java, Backend Systems**
 
